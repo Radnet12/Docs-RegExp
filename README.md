@@ -1,19 +1,5 @@
 # Regular Expressions Documentation
 
-[English version](#eng) | [Русская версия](#ru)
-
-## <a name="eng"></a>	Regular Experssions
-
-
-
-
-
-
-
-
-
-## <a name="ru"></a>	Регулярные выражения
-
 ### Содержание
 + [Создание регулярного выражения](#creating_ru)
 + [Спецсимволы](#symbols_ru)
